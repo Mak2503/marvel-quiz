@@ -62,6 +62,10 @@ function quiz (question, answer) {
 var highScores = [{
   name: "Kader",
   score: 10
+},
+{
+  name: "Sadiq",
+  score: 2
 }]
 for (var i=0; i<questions.length; i++) {
   var quizQues = questions[i];
